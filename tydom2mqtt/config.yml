@@ -2,7 +2,7 @@
 
 ########## GENERAL SETTINGS ######################################################################################################
 name: tydom2mqtt
-image: ghcr.io/dj3y17/tydom2mqtt_patched
+image: ghcr.io/dj3y17/tydom2mqtt_patched:sha256-61871807fa05397f23b03acb6eb61aae137134620f4124255d11d5b5d7581f14
 version: 3.6.0-dj3y17.1
 slug: tydom2mqtt
 description: Deltadore Tydom to MQTT Bridge
